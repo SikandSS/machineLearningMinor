@@ -1,0 +1,2 @@
+# machineLearningMinor
+Minor classroom projects
