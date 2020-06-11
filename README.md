@@ -1,2 +1,1 @@
-# machineLearningMinor
-Minor classroom projects
+# ML-Noida-2019-June-One
